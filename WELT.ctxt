@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=breite\ laenge\ hoehe
+comment0.target=WELT(int,\ int,\ int)
+comment0.text=\nErzeugen\ einer\ neuen,\ leeren\ Welt\ in\ der\ angegebenen\ Gr\u00F6\u00DFe\n\nEs\ muss\ immer\ erst\ eine\ Welt\ angelegt\ werden.\nDie\ Welt\ \u00F6ffnet\ automatisch\ das\ zugeh\u00F6rige\ Anzeigefenster.\n\n@param\ Breite\ der\ Welt\ 1..\ ;\ entspricht\ x-Koordinate\n@param\ L\u00E4nge\ der\ Welt\ 1..\ ;\ entspricht\ y-Koordinate\n@param\ H\u00F6he\ der\ Welt\ 1..31\n\n\n
+comment1.params=weltdatei
+comment1.target=WELT(String)
+comment1.text=\nErzeugen\ einer\ neuen\ Welt\ aus\ einer\ Karolwelt-Datei\nmit\ einem\ vorgegeben\ Dateinamen.\n\nDie\ Einstellungen\ der\ Welt\ und\ der\ darin\ enthaltenen\ \nZiegel,\ Quader\ und\ Markierungen\ werden\ aus\ der\ Karolwelt-Datei\ngeladen\ und\ die\ entsprechenden\ Objekte\ erzeugt.\ \nEs\ sind\ sowohl\ Karolwelten\ von\ RobotKarol\ als\ auch\ von\ JavaKarol\nm\u00F6glich.\nDie\ Welt\ \u00F6ffnet\ automatisch\ das\ zugeh\u00F6rige\ Anzeigefenster.\n\n@param\ Dateiname\ der\ Karolwelt-Datei\nFalls\ die\ Datei\ nicht\ vorhanden\ ist\ oder\ sich\ nicht\ im\nKlassenpfad\ befindet\ wird\ ein\ Dateiauswahlfenster\ ge\u00F6ffnet.\n\n\n
+comment2.target=WELT()
+comment2.text=\nErzeugen\ einer\ neuen\ Welt\ aus\ einer\ Karolwelt-Datei\nohne\ Angabe\ eines\ Dateinamens.\n\nEs\ wird\ immer\ erst\ ein\ Dateiauswahlfenster\ ge\u00F6ffnet,\ in\ dem\ndie\ Karolwelt-Datei\ ausgew\u00E4hlt\ werden\ kann.\nDie\ Einstellungen\ der\ Welt\ und\ der\ darin\ enthaltenen\ \nZiegel,\ Quader\ und\ Markierungen\ werden\ aus\ dieser\ Karolwelt-Datei\ngeladen\ und\ die\ entsprechenden\ Objekte\ erzeugt.\ \nEs\ sind\ sowohl\ Karolwelten\ von\ RobotKarol\ als\ auch\ von\ JavaKarol\nm\u00F6glich.\nDie\ Welt\ \u00F6ffnet\ automatisch\ das\ zugeh\u00F6rige\ Anzeigefenster.\n\n\n
+numComments=3
