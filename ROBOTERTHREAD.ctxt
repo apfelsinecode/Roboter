@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=welt\ pauseNeu\ tanzschritteNeu
+comment0.target=ROBOTERTHREAD(WELT,\ int,\ int)
+comment1.params=startx\ starty\ blickrichtung\ welt\ pauseNeu\ tanzschritteNeu
+comment1.target=ROBOTERTHREAD(int,\ int,\ char,\ WELT,\ int,\ int)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

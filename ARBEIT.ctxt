@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=anzahlRoboter\ weltBreite\ weltLaenge\ pauseNeu\ tanzschritteNeu
+comment0.target=ARBEIT(int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Breite\:\ x\r\n\ L\u00E4nge\:\ y\r\n
+numComments=1
